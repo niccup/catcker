@@ -3657,7 +3657,7 @@ MonoBehaviour:
   pointsAddInterval: 1
   pointsPerSecond: 1
   upgradePointsPerSecondCost: 1
-  targetWinPoints: 5
+  targetWinPoints: 10000
   winScreen: {fileID: 1116402403}
   fadeScreen: {fileID: 634360935}
 --- !u!1660057539 &9223372036854775807
